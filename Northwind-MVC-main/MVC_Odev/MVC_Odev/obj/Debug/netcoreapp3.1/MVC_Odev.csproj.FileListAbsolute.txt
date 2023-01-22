@@ -1,0 +1,719 @@
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.exe
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.deps.json
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.runtimeconfig.json
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.runtimeconfig.dev.json
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.pdb
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.csproj.AssemblyReference.cache
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.AssemblyInfoInputs.cache
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.AssemblyInfo.cs
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.csproj.CoreCompileInputs.cache
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\MVC_Odev.StaticWebAssets.Manifest.cache
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\MVC_Odev.StaticWebAssets.Pack.cache
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.MVC_Odev.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.MVC_Odev.props
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.MVC_Odev.props
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.MVC_Odev.props
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.RazorTargetAssemblyInfo.cache
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.csproj.CopyComplete
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.pdb
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.genruntimeconfig.cache
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.Views.dll
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.Views.pdb
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.RazorAssemblyInfo.cache
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.RazorAssemblyInfo.cs
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.TagHelpers.input.cache
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.TagHelpers.output.cache
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.RazorCoreGenerate.cache
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.RazorTargetAssemblyInfo.cs
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.Views.pdb
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Products.cshtml.g.cs
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Customers.cshtml.g.cs
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Suppliers.cshtml.g.cs
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Orders.cshtml.g.cs
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sepet.cshtml.g.cs
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Viraldo\Desktop\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.exe
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.deps.json
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.runtimeconfig.json
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.runtimeconfig.dev.json
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.pdb
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.Views.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.Views.pdb
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.csproj.AssemblyReference.cache
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.AssemblyInfoInputs.cache
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.AssemblyInfo.cs
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.csproj.CoreCompileInputs.cache
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.RazorAssemblyInfo.cache
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.RazorAssemblyInfo.cs
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\MVC_Odev.StaticWebAssets.Manifest.cache
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\MVC_Odev.StaticWebAssets.Pack.cache
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.MVC_Odev.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.MVC_Odev.props
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.MVC_Odev.props
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.MVC_Odev.props
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.TagHelpers.input.cache
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.TagHelpers.output.cache
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.RazorCoreGenerate.cache
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Customers.cshtml.g.cs
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Orders.cshtml.g.cs
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Products.cshtml.g.cs
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sepet.cshtml.g.cs
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Suppliers.cshtml.g.cs
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.RazorTargetAssemblyInfo.cache
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.RazorTargetAssemblyInfo.cs
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.Views.pdb
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.csproj.CopyComplete
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.dll
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.pdb
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.genruntimeconfig.cache
+C:\Users\batuh\Source\Repos\Kismetse-Olur\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Employee.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.exe
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.deps.json
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.runtimeconfig.json
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.runtimeconfig.dev.json
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.pdb
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.Views.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.Views.pdb
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.csproj.AssemblyReference.cache
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.AssemblyInfoInputs.cache
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.AssemblyInfo.cs
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.csproj.CoreCompileInputs.cache
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.RazorAssemblyInfo.cache
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.RazorAssemblyInfo.cs
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\MVC_Odev.StaticWebAssets.Manifest.cache
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\MVC_Odev.StaticWebAssets.Pack.cache
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.MVC_Odev.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.MVC_Odev.props
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.MVC_Odev.props
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.MVC_Odev.props
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.TagHelpers.input.cache
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.TagHelpers.output.cache
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.RazorCoreGenerate.cache
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Customers.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Employee.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Orders.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Products.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sepet.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Suppliers.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.RazorTargetAssemblyInfo.cache
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.RazorTargetAssemblyInfo.cs
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.Views.pdb
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.csproj.CopyComplete
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.dll
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.pdb
+C:\Users\Viraldo\Desktop\Kismetse-Olur-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.genruntimeconfig.cache
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.exe
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.deps.json
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.runtimeconfig.json
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.runtimeconfig.dev.json
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.pdb
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.Views.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.Views.pdb
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.csproj.AssemblyReference.cache
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.AssemblyInfoInputs.cache
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.AssemblyInfo.cs
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.csproj.CoreCompileInputs.cache
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.RazorAssemblyInfo.cache
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.RazorAssemblyInfo.cs
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\MVC_Odev.StaticWebAssets.Manifest.cache
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\MVC_Odev.StaticWebAssets.Pack.cache
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.MVC_Odev.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.MVC_Odev.props
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.MVC_Odev.props
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.MVC_Odev.props
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.TagHelpers.input.cache
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.TagHelpers.output.cache
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.RazorCoreGenerate.cache
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Customers.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Employee.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Orders.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Products.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sepet.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\TheMatrix\BluePill.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\TheMatrix\RedPill.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.RazorTargetAssemblyInfo.cache
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.RazorTargetAssemblyInfo.cs
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.Views.pdb
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.csproj.CopyComplete
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.dll
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.pdb
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.genruntimeconfig.cache
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\CustomerCreate.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\EmployeeCreate.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Haftasonu Northwind\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductCreate.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.exe
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.deps.json
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.runtimeconfig.json
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.runtimeconfig.dev.json
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.pdb
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.Views.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.Views.pdb
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.csproj.AssemblyReference.cache
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.AssemblyInfoInputs.cache
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.AssemblyInfo.cs
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.csproj.CoreCompileInputs.cache
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.RazorAssemblyInfo.cache
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.RazorAssemblyInfo.cs
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\MVC_Odev.StaticWebAssets.Manifest.cache
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\MVC_Odev.StaticWebAssets.Pack.cache
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.MVC_Odev.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.MVC_Odev.props
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.MVC_Odev.props
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.MVC_Odev.props
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.TagHelpers.input.cache
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.TagHelpers.output.cache
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.RazorCoreGenerate.cache
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\CustomerCreate.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Customers.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Employee.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\EmployeeCreate.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Orders.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductCreate.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Products.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sepet.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\TheMatrix\BluePill.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\TheMatrix\RedPill.cshtml.g.cs
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.RazorTargetAssemblyInfo.cache
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.RazorTargetAssemblyInfo.cs
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.Views.pdb
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.csproj.CopyComplete
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.dll
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.pdb
+C:\Users\Viraldo\Desktop\Northwind Finished\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.genruntimeconfig.cache
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.exe
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.deps.json
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.runtimeconfig.json
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.runtimeconfig.dev.json
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.pdb
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.Views.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\MVC_Odev.Views.pdb
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.csproj.AssemblyReference.cache
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.AssemblyInfoInputs.cache
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.AssemblyInfo.cs
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.csproj.CoreCompileInputs.cache
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.RazorAssemblyInfo.cache
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.RazorAssemblyInfo.cs
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\MVC_Odev.StaticWebAssets.Manifest.cache
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\MVC_Odev.StaticWebAssets.Pack.cache
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.MVC_Odev.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.MVC_Odev.props
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.MVC_Odev.props
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.MVC_Odev.props
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.TagHelpers.input.cache
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.TagHelpers.output.cache
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.RazorCoreGenerate.cache
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\CustomerCreate.cshtml.g.cs
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Customers.cshtml.g.cs
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Employee.cshtml.g.cs
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\EmployeeCreate.cshtml.g.cs
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Orders.cshtml.g.cs
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductCreate.cshtml.g.cs
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Products.cshtml.g.cs
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sepet.cshtml.g.cs
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\TheMatrix\BluePill.cshtml.g.cs
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\Razor\Views\TheMatrix\RedPill.cshtml.g.cs
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.RazorTargetAssemblyInfo.cache
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.RazorTargetAssemblyInfo.cs
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.Views.pdb
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.csproj.CopyComplete
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.dll
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.pdb
+C:\Users\batuh\Desktop\Northwind-MVC-main\MVC_Odev\MVC_Odev\obj\Debug\netcoreapp3.1\MVC_Odev.genruntimeconfig.cache

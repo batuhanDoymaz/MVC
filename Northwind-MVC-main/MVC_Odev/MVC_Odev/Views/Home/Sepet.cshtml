@@ -1,0 +1,85 @@
+﻿@using MVC_Odev.Models;
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{
+    int totalPrice = 0;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Sepet</title>
+</head>
+
+<body>
+    <form  method="post">
+        <div class="container">
+            <div class="row">
+                <div class="row bodyContainerMain mt-5">
+                        <h1 class="justify-content-center">Sepetiniz</h1>
+                        <hr />
+                        <div class="col-md-8">
+                            <div class="container">
+                                <div class="row">
+                                    <h2 class="mt-2">Sipariş Oluştur</h2>
+                                    <hr />
+                                    <div class="input-group flex-nowrap mt-2">
+                                        <span class="input-group-text">Kullanıcı Id</span>
+                                        <input class="form-control" type="text" name="CustomerID" />
+                                    </div>
+                                    <div class="input-group flex-nowrap mt-2">
+                                        <span class="input-group-text">Adres</span>
+                                        <input class="form-control" type="text" name="ShipAdress" />
+                                    </div>
+                                    <div class="input-group flex-nowrap mt-2">
+                                        <span class="input-group-text">Kargo Firması</span>
+                                        <select name="ShipVia" class="form-select">
+                                            <option value="Aras Kargo">Aras Kargo</option>
+                                            <option value="Sürat Kargo">Sürat Kargo</option>
+                                            <option value="Müq Kargo">Müq Kargo</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="container">
+                                <div class="row">
+                                    <h2 class="mt-2">Ürünler</h2>
+                                    <hr />
+                                    @if (ViewBag.Sepet != null)
+                                    {
+                                        @foreach (var product in ViewBag.Sepet)
+                                        {
+                                            if (product.Amount > 0)
+                                            {
+                                                <div class="container ProductContainer">
+                                                    <span class="d-flex my-2" style="font-size:large">@product.Name : @product.Price $ - @product.Amount Adet</span>
+                                                </div>
+                                                totalPrice += (product.Price * @product.Amount);
+                                            }
+                                        }
+                                    }
+                                <hr />
+                                    <footer>
+                                        <div class="container">
+                                        <h4>Total Price :@totalPrice $</h4>
+                                        </div>
+                                    
+                                    </footer>
+                                </div>
+                            </div>
+                             <hr />
+                        <center>
+                            <button type="submit" name="Freight" value="@totalPrice" class="w-50 btn btn-warning mt-2 form-control" style="float:right">Sipariş Oluştur</button>
+                        </center>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </form>
+</body>
+</html>

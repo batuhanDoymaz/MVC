@@ -1,0 +1,47 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Products</title>
+</head>
+<body>
+    <div class="container bodyContainerMain mt-5">
+        <div class="row">
+            <h1>Products</h1>
+            <!--Product listesini listeleyin.-->
+            <table class="table table-striped table-hover">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>ProductName</th>
+                        <th>UnitPrice</th>
+                        <th>UnitsInStock</th>
+                        <th scope="col">#</th>
+                    </tr>
+                </thead>
+
+                <tbody class="table-group-divider">
+                    @foreach (var product in ViewBag.Products as List<MVC_Odev.Models.Product>)
+                    {
+                        <tr>
+                            <td>@product.Id</td>
+                            <td>@product.ProductName</td>
+                            <td>@product.UnitPrice</td>
+                            <td>@product.UnitsInStock</td>
+                            <td><a href="#" class="btn btn-outline-danger btn-sm"><img src="https://icon-library.com/images/delete-icon-png/delete-icon-png-19.jpg" style="width:10px; height:10px" /> </a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <div class="d-grid gap-2">
+                <a href="/Home/ProductCreate" class="btn btn-dark" type="button">Ürün Oluştur</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

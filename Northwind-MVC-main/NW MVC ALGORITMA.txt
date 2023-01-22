@@ -1,0 +1,44 @@
+Northwind
+
+Sayfalar(actions)
+	-Index:
+		-Sabit 4 ürün gösterilicek
+		-Sepete Ekleme fonksiyonu olucak
+	-Product
+		-Product'lar listelenicek .(List<Product>'da foreach kullanılarak.) 
+		-Yeni product oluşturmak için bulunan butona tıklanıldığında Product Oluşturma
+		sayfasına yönlendirilicek ve oluşturulan product Productların listelendiği 
+		sayfada görüntülenebilinecek.
+		-Sepete ekle seçeneği bulunucak ve bu seçeneğe tıklanıldığında sepet sayfasında
+		bilgileriyle görülebilinecek ve sepetin toplam fiyatı güncellenilecek.
+		-Veri satırı silinme seçeneği olucak
+
+	-Customer
+		-Customer'lar listelenicek .(List<Customer>'da foreach kullanılarak.) 
+		-Yeni customer oluşturmak için bulunan butona tıklanıldığında customer Oluşturma
+		sayfasına yönlendirilicek ve oluşturulan customer customerların listelendiği 
+		sayfada görüntülenebilinecek.
+		-Veri satırı silinme seçeneği olucak
+	-Employee
+		-Employee'ler listelenicek .(List<Employee>'da foreach kullanılarak.) 
+		-Yeni employee oluşturmak için bulunan butona tıklanıldığında Employee Oluşturma
+		sayfasına yönlendirilicek ve oluşturulan employee Employeelerin listelendiği 
+		sayfada görüntülenebilinecek.
+		-Veri satırı silinme seçeneği olucak
+
+	-Order
+		-Siparişler listelenicek .(List<Order>'da foreach kullanılarak.) 
+		-Veri satırı silinme seçeneği olucak
+	-Sepet
+		-Eklenen ürünler listelenilecek 
+		-Toplam fiyat görülcek
+		-Ürünü sepetten kaldırma veya miktar arttırma(Çok zorsa yapmayız) 
+		seçeneği bulunacak
+		-Sipariş oluştur butonu olucak bu butona tıklanıldığında önce sipariş formu
+		doldurulacak ve bu form siparişler sayfasında görüntülenebilinecek.
+
+	-Login
+		-STATIC SAYFA
+
+	-Register
+		-STATIC SAYFA

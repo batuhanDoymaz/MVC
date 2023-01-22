@@ -1,0 +1,51 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Customers</title>
+</head>
+<body>
+    <div class="container bodyContainerMain mt-5">
+        <div class="row">
+            <h1>Customers</h1>
+            <div class="bd-example-snippet bd-code-snippet">
+                <div class="bd-example">
+                    <table class="table table-striped table-hover">
+                        <thead>
+                            <tr>
+                                <th scope="col">ID</th>
+                                <th scope="col">Şirket İsmi</th>
+                                <th scope="col">İsim</th>
+                                <th scope="col">Pozisyon</th>
+                                <th scope="col">Telefon</th>
+                                <th scope="col">#</th>
+                            </tr>
+                        </thead>
+                        <tbody class="table-group-divider">
+                            @foreach (var customers in ViewBag.Customer){
+                                <tr>
+                                    <td>@customers.Id</td>
+                                    <td>@customers.CompanyName</td>
+                                    <td>@customers.CustomerName</td>
+                                    <td>@customers.CustomerTitle</td>
+                                    <td>@customers.CustomerPhone</td>
+                                    <td><a href="#" class="btn btn-outline-danger btn-sm"><img src="https://icon-library.com/images/delete-icon-png/delete-icon-png-19.jpg" style="width:10px; height:10px" /> </a></td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                    <hr class="my-4">
+                    <div class="d-grid gap-2">
+                        <a href="/Home/CustomerCreate" class="btn btn-dark" type="button">Müşteri Oluştur</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

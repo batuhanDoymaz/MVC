@@ -1,0 +1,48 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Orders</title>
+</head>
+<body>
+    <div class="container bodyContainerMain mt-5">
+        <div class="row">
+
+            <h1>Orders</h1>
+            <table class="table table-striped table-hover">
+                <thead>
+                    <tr>
+                        <th scope="col">ID</th>
+                        <th scope="col">CustomerID</th>
+                        <th scope="col">OrderDate</th>
+                        <th scope="col">ShipVia</th>
+                        <th scope="col">Freight</th>
+                        <th scope="col">ShipAdress</th>
+                        <th scope="col">#</th>
+                    </tr>
+                </thead>
+
+                <tbody class="table-group-divider">
+                    @foreach (var order in ViewBag.Orders)
+                    {
+                        <tr>
+                            <td class="orderID" scope="col">@order.Id</td>
+                            <td scope="col">@order.CustomerID</td>
+                            <td scope="col">@order.OrderDate</td>
+                            <td scope="col">@order.ShipVia</td>
+                            <td scope="col">@order.Freight $</td>
+                            <td scope="col">@order.ShipAdress</td>
+                            <td><a href="#" class="btn btn-outline-danger btn-sm"><img src="https://icon-library.com/images/delete-icon-png/delete-icon-png-19.jpg" style="width:10px; height:10px" /> </a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+</html>

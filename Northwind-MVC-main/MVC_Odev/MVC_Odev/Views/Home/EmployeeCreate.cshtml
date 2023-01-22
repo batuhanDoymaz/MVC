@@ -1,0 +1,51 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>EmployeeCreate</title>
+</head>
+<body>
+    <form method="post">
+        <div class="container">
+            <div class="row">
+                <hr />
+                <div style="">
+                    <div class="row bodyContainerMain">
+
+                        <div class="container">
+                            <div class="row">
+                                <h2 class="mt-2">Çalışan Oluştur</h2>
+                                <hr />
+                                <div class="input-group flex-nowrap mt-2">
+                                    <span class="input-group-text">İsim</span>
+                                    <input class="form-control" type="text" name="EmployeeFirstName" />
+                                </div>
+                                <div class="input-group flex-nowrap mt-2">
+                                    <span class="input-group-text">Soyisim</span>
+                                    <input class="form-control" type="text" name="EmployeeLastName" />
+                                </div>
+                                <div class="input-group flex-nowrap mt-2">
+                                    <span class="input-group-text">Pozisyon</span>
+                                    <input class="form-control" type="text" name="EmployeeTitle" />
+                                </div>
+                                <div class="input-group flex-nowrap mt-2">
+                                    <span class="input-group-text">Telefon</span>
+                                    <input class="form-control" type="text" name="EmployeePhone" />
+                                </div>
+                                    <hr class="my-4">
+                                <button class="btn btn-dark" type="submit">Çalışan Oluştur</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

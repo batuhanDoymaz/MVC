@@ -1,0 +1,22 @@
+﻿body {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bodyContainerMain {
+    opacity:0.9;
+    border-style: groove;
+    border-color: grey;
+    border-width: thin;
+    border-radius: 10px 10px 10px 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://imgs.search.brave.com/Jyau-tc3GRMkL6LIuZv79EPcfkHEM8QkeSne9dBLXF4/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJhY2Nlc3Mu/Y29tL2Z1bGwvMzcw/MjUyOS5qcGc);
+    padding-right: 1.5rem !important;
+    padding-left: 1.5rem !important;
+    padding-top: 1.5rem !important;
+    padding-bottom: 1.5rem !important;
+}
+.ProductContainer {
+    font-size:large;
+}
+
